@@ -17,6 +17,7 @@ Para executar o projeto, é necessário ter o Elasticsearch e Node.js instalados
 * Com o terminal na pasta api-movies, executar o comando *npm i restify* e em seguida o comando *npm install --save elasticsearch*
 
 * Rodar o servidor elastisearch: 
+
 Para rodar o servidor do elasticsearch: Localizar o terminal na pasta do elastiserch e executar o comando ./bin/elasticsearch
 
 * Com o terminal na pasta api-movies, executar o comando *node main.js*
