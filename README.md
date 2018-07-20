@@ -15,6 +15,7 @@ Executar no terminal *python script.py*. Será gerado o arquivo movies.json
 Para executar o projeto, é necessário ter o Elasticsearch e Node.js instalados
 
  > Download Node.js: https://nodejs.org/en/download/
+ 
  > Download Elasticsearch: https://www.elastic.co/downloads/elasticsearch
 
 * Com o terminal na pasta api-movies-master, executar o comando *npm i restify* e em seguida o comando *npm install --save elasticsearch*
