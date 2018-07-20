@@ -12,7 +12,7 @@ Executar no terminal *python script.py*. Será gerado o arquivo movies.json
 
 1. Como rodar o servidor:
 
-Com o terminal na pasta api-movies, executar o comando *npm i restify* 
+Com o terminal na pasta api-movies, executar o comando *npm i restify* e em seguida o comando *npm install --save elasticsearch*
 
 Rodar o servidor elastisearch
 
