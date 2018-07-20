@@ -22,7 +22,7 @@ Para executar o projeto, é necessário ter o Elasticsearch e Node.js instalados
 
 * Rodar o servidor elastisearch: 
 
- - Para rodar o servidor do elasticsearch: Localizar o terminal na pasta do elastiserch e executar o comando ./bin/elasticsearch.
+  - Para rodar o servidor do elasticsearch: Localizar o terminal na pasta do elastiserch e executar o comando ./bin/elasticsearch.
  
 
 * Com o terminal na pasta api-movies-master, executar o comando *node main.js*
