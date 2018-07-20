@@ -28,3 +28,4 @@ Após executar o método POST, é possível realizar as requisiçes a partir do 
 Exemplo de requisição:
 
 http://localhost:8080/movie?field=title&q=Batman (procurar filmes com nome Batman)
+
